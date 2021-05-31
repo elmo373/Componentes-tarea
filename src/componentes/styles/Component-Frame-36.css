@@ -1,9 +1,4 @@
-*{
-    font-family: 'Poppins', sans-serif;
-    margin: 0;
-    padding: 0;
-}
-.componentframe5_4_2{
+.componentframe34{
     max-width: 348px;
     max-height: 157;
     background: #FFFFFF;
@@ -13,25 +8,25 @@
     padding: 25px 38px;
     box-shadow:  9px 9px 70px #ccd0d5;
 } 
-.componentframe5_4_2__header{
+.componentframe34__header{
     display: flex;
     justify-content: space-between;
 }
-.vectorline{
+.vectorline2{
     display: flex;
     justify-content: space-between;
     width: 360px;
 }
-.iconos{
+.iconos2{
     display: flex;
     justify-content: space-between;
     width: 160.73px;
     height: 18px;
 }
-.iconos p{
+.iconos2 p{
     display: flex;
 }
-.day{
+.day2{
     display: flex;
     justify-content: space-between;
     width: 62px;
@@ -39,50 +34,51 @@
     left: 20px;
     top: 93px;
 }
-.day img{
+.day2 img{
     width: 16px;
     height: 16px;
     left: 20px;
     top: 94px;
 }
-.mens{
+.mens2{
     justify-content: space-between;
     display: flex;
 }
-.mens img{
+.mens2 img{
     width: 13px;
     height: 13px;
     left: 106px;
     top: 96px;
 }
-.adj{
+.adj2{
     display: flex;
     justify-content: space-between;
 }
-.adj img{
+.adj2 img{
     width: 7.46px;
     height: 13.89px;
     left: 158px;
     top: 95.07px;
 }
-.componente_description{
-    
+.componente_description2{
     display: flex;
 }
-.componente_description img{
+.componente_description2 img{
     width: 19px;
     height: 19px;
 }
-.componente_description p{
+.componente_description2 p{
+    width: 308px;
     height: 50px;
     left: 20px;
     top: 56px;
+    font-weight: normal;
     font-style: normal;
     font-size: 13px;
     line-height: 19px;
     color: #4F4F4F;
 }
-.ctitle{
+.ctitle2{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -93,7 +89,7 @@
     top: 20px;
     border-radius: 18px;
 }
-.ctitle p{
+.ctitle2 p{
     display: flex;
     height: 15px;
     left: 14px;
@@ -107,16 +103,16 @@
     flex-grow: 0;
     margin: 0px 0px;
 }
-.vectorline p{
+.vectorline2 p{
     font-size: 12px;
     line-height: 18px;
     color: #828282;
 }
-.puntos{
+.puntos2{
     display: flex;
     width: 10px;
 }
-.puntos img{
+.puntos2 img{
     width: 25px;
     height: 10px;
-}
+} 

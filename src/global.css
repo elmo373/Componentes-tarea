@@ -44,13 +44,13 @@
         color: var(--greenp);
         width: 70px;
     }
-    .descrip-web-desing{
+    .descrip-web-desing p{
         font-weight: 500;
         text-decoration-line: line-through;
     }
-    .descrip-copywriting{
+    .descrip-copywriting p{
         font-weight: 500;
     }
-    .descrip-Landing-Page{
-        font-weight: 10;
+    .descrip-Landing-Page p{
+        font-weight: normal;
     }

@@ -1,6 +1,6 @@
-export default function getContentComponents(){
+export default function getContentComponents2(){
 
-    const contentFrame_5_4_2 = [
+    const contentFrame_36 = [
         
         {
             title: "Web Desing",
@@ -48,5 +48,5 @@ export default function getContentComponents(){
             tipo: "descrip-Landing-Page"
         }
     ]
-    return contentFrame_5_4_2;
+    return contentFrame_36;
 }
