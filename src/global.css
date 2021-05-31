@@ -1,0 +1,39 @@
+:root{
+    --white:#FFFFFF;
+    --greent: #24975633;
+    --greenp:#219653;
+    --bluet: #2F80ED33;
+    --bluep: #2F80ED;
+    --purplet:#9B51E033;
+    --purplep: #9B51E0;
+    }
+    html{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .bg-research{
+        background:var(--greent);
+        width: 76px;
+    }
+    .bg-web-desing{
+        background:var(--bluet);
+        width: 89px;
+    }
+    .bg-copywriting{
+        background:var(--purplet);
+        width: 91px;
+    }
+    .bg-research p{
+        color: var(--greenp);
+        width: 48px;
+    }
+    .bg-web-desing p{
+        color: var(--bluep);
+        width: 61px;
+    }
+    .bg-copywriting{
+        color: var(--purplep);
+        width: 63px;
+    }
+
