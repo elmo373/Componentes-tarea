@@ -106,6 +106,10 @@
     line-height: 18px;
     color: #828282;
 }
+.vectorline img{
+    width: 24px;
+    height: 24px;
+}
 .puntos{
     display: flex;
     width: 10px;

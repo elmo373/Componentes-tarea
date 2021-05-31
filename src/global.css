@@ -36,4 +36,21 @@
         color: var(--purplep);
         width: 63px;
     }
-
+    .bg-Landing-Page{
+        background:var(--greent);
+        width: 98px;
+    }
+    .bg-Landing-Page p{
+        color: var(--greenp);
+        width: 70px;
+    }
+    .descrip-web-desing{
+        font-weight: 500;
+        text-decoration-line: line-through;
+    }
+    .descrip-copywriting{
+        font-weight: 500;
+    }
+    .descrip-Landing-Page{
+        font-weight: 10;
+    }
